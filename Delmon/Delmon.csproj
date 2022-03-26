@@ -74,9 +74,13 @@
     <Content Include="assets\images\2.jpg" />
     <Content Include="assets\images\3.jpg" />
     <Content Include="assets\images\4.jpg" />
+    <Content Include="assets\images\AMINATIT.jpg" />
+    <Content Include="assets\images\aramco CEO.jpg" />
+    <Content Include="assets\images\aramco trans.png" />
     <Content Include="assets\images\c1.jpg" />
     <Content Include="assets\images\c2.jpg" />
     <Content Include="assets\images\c3.jpg" />
+    <Content Include="assets\images\Halliburton trans.png" />
     <Content Include="assets\images\logo.jpg" />
     <Content Include="assets\images\g1.jpg" />
     <Content Include="assets\images\g2.jpg" />
@@ -86,6 +90,8 @@
     <Content Include="assets\images\g6.jpg" />
     <Content Include="assets\images\g7.jpg" />
     <Content Include="assets\images\g8.jpg" />
+    <Content Include="assets\images\sabic2 trans.png" />
+    <Content Include="assets\images\Schlumberger trans.png" />
     <Content Include="assets\images\t1.jpg" />
     <Content Include="assets\images\t2.jpg" />
     <Content Include="assets\images\t3.jpg" />
