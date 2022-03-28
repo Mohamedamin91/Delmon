@@ -404,6 +404,13 @@ Author URL: http://w3layouts.com
 
     <!-- partners -->
 
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <script src="custom.js"></script>
+  <!-- new one -->
     <section class="partners py-5" id="partners">
         <div class="container py-md-3">
             <div class="heading text-center mx-auto">
@@ -412,30 +419,110 @@ Author URL: http://w3layouts.com
                     Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
                     Nulla mollis dapibus nunc, ut rhoncus
                     turpis sodales quis. Integer sit amet mattis quam.
+                    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+                    Nulla mollis dapibus nunc, ut rhoncus
+                    turpis sodales quis. Integer sit amet mattis quam.
                 </p>
             </div>
-            <div class="inner-sec-w3ls pt-5 mt-3">
-                <div class="sponsers-icon text-center">
-                    <ul class="list-unstyled partners-icon row">
-                        <li class="col-md-2 col-4">
-                            <img src="assets/images/aramco trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
-                        </li>
-                        <li class="col-md-2 col-4 border-left border-right">
-                            <img src="assets/images/Halliburton trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
-                        </li>
-                        <li class="col-md-2 col-4 border-right">
-                            <img src="assets/images/sabic2 trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
-                        </li>
-                        <li class="col-md-2 col-4 border-right mt-md-0 mt-3">
-                            <img src="assets/images/Schlumberger trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
-                        </li>
 
-                        <li class="col-md-2 col-4 mt-md-0 mt-3">
-                            <img src="assets/images/AMINATIT.jpg" alt="Your logo" title="Your logo" style="height:100px;" />
-                        </li>
-                    </ul>
+            <style>
+                body {
+                    background: aliceblue;
+                }
+
+                .section-padding {
+                    padding: 60px 0;
+                }
+
+                .brand-carousel {
+                    background: aliceblue;
+                    margin-top: 5%;
+                }
+
+                .owl-dots {
+                    text-align: center;
+                    margin-top: 4%;
+                }
+
+                .owl-dot {
+                    display: inline-block;
+                    height: 15px !important;
+                    width: 15px !important;
+                    background-color: #878787 !important;
+                    opacity: 0.8;
+                    border-radius: 50%;
+                    margin: 0 5px;
+                }
+
+                    .owl-dot.active {
+                        background-color: #000 !important;
+                    }
+            </style>
+            <div class="brand-carousel section-padding owl-carousel">
+                <div class="single-logo">
+                    <img src="assets/images/aramco trans.png" alt="Your logo" title="Your logo" height="100" width="100" />
                 </div>
+                <div class="single-logo">
+                    <img src="assets/images/Halliburton trans.png" alt="Your logo" title="Your logo" height="100" width="100" />
+                </div>
+                <div class="single-logo">
+                    <img src="assets/images/sabic2 trans.png" alt="Your logo" title="Your logo" height="100" width="100" />
+                </div>
+                <div class="single-logo">
+                    <img src="assets/images/Schlumberger trans.png" alt="Your logo" title="Your logo" height="100" width="100" />
+                </div>
+                <div class="single-logo">
+                    <img src="assets/images/AMINATIT.jpg" alt="Your logo" title="Your logo" height="100" width="100" />
+                </div>
+
             </div>
+            <script>
+                $('.brand-carousel').owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    autoplay: true,
+                    responsive: {
+                        0: {
+                            items: 1
+                        },
+                        600: {
+                            items: 3
+                        },
+                        1000: {
+                            items: 5
+                        }
+                    }
+                })
+            </script>
+
+
+
+
+
+
+            <!-- old one -->
+            <!--<div class="inner-sec-w3ls pt-5 mt-3">
+        <div class="sponsers-icon text-center">
+            <ul class="list-unstyled partners-icon row">
+                <li class="col-md-2 col-4">
+                    <img src="assets/images/aramco trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
+                </li>
+                <li class="col-md-2 col-4 border-left border-right">
+                    <img src="assets/images/Halliburton trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
+                </li>
+                <li class="col-md-2 col-4 border-right">
+                    <img src="assets/images/sabic2 trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
+                </li>
+                <li class="col-md-2 col-4 border-right mt-md-0 mt-3">
+                    <img src="assets/images/Schlumberger trans.png" alt="Your logo" title="Your logo" style="height:100px;" />
+                </li>
+
+                <li class="col-md-2 col-4 mt-md-0 mt-3">
+                    <img src="assets/images/AMINATIT.jpg" alt="Your logo" title="Your logo" style="height:100px;" />
+                </li>
+            </ul>
+        </div>
+    </div>-->
         </div>
     </section>
 
