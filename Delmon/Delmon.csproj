@@ -81,6 +81,7 @@
     <Content Include="assets\images\c2.jpg" />
     <Content Include="assets\images\c3.jpg" />
     <Content Include="assets\images\delomntower.png" />
+    <Content Include="assets\images\gasket2.jpg" />
     <Content Include="assets\images\Halliburton trans.png" />
     <Content Include="assets\images\logo.jpg" />
     <Content Include="assets\images\g1.jpg" />
@@ -91,7 +92,10 @@
     <Content Include="assets\images\g6.jpg" />
     <Content Include="assets\images\g7.jpg" />
     <Content Include="assets\images\g8.jpg" />
+    <Content Include="assets\images\mission.png" />
+    <Content Include="assets\images\nf2.jpg" />
     <Content Include="assets\images\sabic2 trans.png" />
+    <Content Include="assets\images\sap2.jpg" />
     <Content Include="assets\images\Schlumberger trans.png" />
     <Content Include="assets\images\t1.jpg" />
     <Content Include="assets\images\t2.jpg" />
@@ -118,6 +122,9 @@
     <Content Include="assets\fonts\fontawesome-webfont.woff" />
     <Content Include="assets\fonts\fontawesome-webfont.woff2" />
     <Content Include="assets\fonts\FontAwesome.otf" />
+    <Content Include="assets\images\gasket.jpg" />
+    <Content Include="assets\images\NF.jpg" />
+    <Content Include="assets\images\SAP.jpg" />
     <None Include="packages.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
