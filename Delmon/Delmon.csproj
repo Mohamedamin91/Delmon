@@ -83,6 +83,7 @@
     <Content Include="assets\images\delomntower.png" />
     <Content Include="assets\images\gasket2.jpg" />
     <Content Include="assets\images\Halliburton trans.png" />
+    <Content Include="assets\images\history3.jpg" />
     <Content Include="assets\images\logo.jpg" />
     <Content Include="assets\images\g1.jpg" />
     <Content Include="assets\images\g2.jpg" />
@@ -94,6 +95,7 @@
     <Content Include="assets\images\g8.jpg" />
     <Content Include="assets\images\mission.png" />
     <Content Include="assets\images\nf2.jpg" />
+    <Content Include="assets\images\our-mission2.jpg" />
     <Content Include="assets\images\sabic2 trans.png" />
     <Content Include="assets\images\sap2.jpg" />
     <Content Include="assets\images\Schlumberger trans.png" />
