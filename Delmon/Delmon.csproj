@@ -72,8 +72,10 @@
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\images\1.jpg" />
     <Content Include="assets\images\2.jpg" />
+    <Content Include="assets\images\222.png" />
     <Content Include="assets\images\3.jpg" />
     <Content Include="assets\images\4.jpg" />
+    <Content Include="assets\images\640.png" />
     <Content Include="assets\images\AMINATIT.jpg" />
     <Content Include="assets\images\aramco CEO.jpg" />
     <Content Include="assets\images\aramco trans.png" />
@@ -95,7 +97,8 @@
     <Content Include="assets\images\g8.jpg" />
     <Content Include="assets\images\mission.png" />
     <Content Include="assets\images\nf2.jpg" />
-    <Content Include="assets\images\our-mission2.jpg" />
+    <Content Include="assets\images\Our history.png" />
+    <Content Include="assets\images\Our mission.png" />
     <Content Include="assets\images\sabic2 trans.png" />
     <Content Include="assets\images\sap2.jpg" />
     <Content Include="assets\images\Schlumberger trans.png" />
