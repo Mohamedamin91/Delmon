@@ -91,8 +91,11 @@
     <Content Include="assets\images\4.jpg" />
     <Content Include="assets\images\640.png" />
     <Content Include="assets\images\AMINATIT.jpg" />
+    <Content Include="assets\images\amintrans.png" />
     <Content Include="assets\images\aramco CEO.jpg" />
     <Content Include="assets\images\aramco trans.png" />
+    <Content Include="assets\images\aramco2.jpg" />
+    <Content Include="assets\images\aramco2trans.png" />
     <Content Include="assets\images\Build 2.png" />
     <Content Include="assets\images\Build1.png" />
     <Content Include="assets\images\c1.jpg" />
@@ -101,6 +104,10 @@
     <Content Include="assets\images\delomntower.png" />
     <Content Include="assets\images\gasket2.jpg" />
     <Content Include="assets\images\Halliburton trans.png" />
+    <Content Include="assets\images\Halliburton2.jpg" />
+    <Content Include="assets\images\Halliburton3.png" />
+    <Content Include="assets\images\halliburtonhd.png" />
+    <Content Include="assets\images\halliburtontrans.png" />
     <Content Include="assets\images\logo.jpg" />
     <Content Include="assets\images\g1.jpg" />
     <Content Include="assets\images\g2.jpg" />
@@ -115,8 +122,13 @@
     <Content Include="assets\images\Our history.png" />
     <Content Include="assets\images\Our mission.png" />
     <Content Include="assets\images\sabic2 trans.png" />
+    <Content Include="assets\images\sabiclgnew.png" />
+    <Content Include="assets\images\sabicnew.png" />
     <Content Include="assets\images\sap2.jpg" />
     <Content Include="assets\images\Schlumberger trans.png" />
+    <Content Include="assets\images\slb.png" />
+    <Content Include="assets\images\slb2.png" />
+    <Content Include="assets\images\slb2trans.png" />
     <Content Include="assets\images\t1.jpg" />
     <Content Include="assets\images\t2.jpg" />
     <Content Include="assets\images\t3.jpg" />
