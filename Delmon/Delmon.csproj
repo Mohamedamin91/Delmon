@@ -76,9 +76,12 @@
     <Content Include="assets\Icons\gasket.png" />
     <Content Include="assets\Icons\media.png" />
     <Content Include="assets\Icons\Mineral.png" />
+    <Content Include="assets\Icons\piping.png" />
     <Content Include="assets\Icons\Restaurant.png" />
+    <Content Include="assets\Icons\road safety.png" />
     <Content Include="assets\Icons\Safety.png" />
     <Content Include="assets\Icons\sap.png" />
+    <Content Include="assets\Icons\solar.png" />
     <Content Include="assets\Icons\transportaion.png" />
     <Content Include="assets\Icons\travel.png" />
     <Content Include="assets\images\1.jpg" />
@@ -109,8 +112,8 @@
     <Content Include="assets\images\g8.jpg" />
     <Content Include="assets\images\mission.png" />
     <Content Include="assets\images\nf2.jpg" />
-    <Content Include="assets\images\Our history2.png" />
-    <Content Include="assets\images\Our Mission2.png" />
+    <Content Include="assets\images\Our history.png" />
+    <Content Include="assets\images\Our mission.png" />
     <Content Include="assets\images\sabic2 trans.png" />
     <Content Include="assets\images\sap2.jpg" />
     <Content Include="assets\images\Schlumberger trans.png" />
