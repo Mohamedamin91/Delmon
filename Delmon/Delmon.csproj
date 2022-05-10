@@ -102,7 +102,9 @@
     <Content Include="assets\images\c1.jpg" />
     <Content Include="assets\images\c2.jpg" />
     <Content Include="assets\images\c3.jpg" />
+    <Content Include="assets\images\defualt.jpg" />
     <Content Include="assets\images\delomntower.png" />
+    <Content Include="assets\images\factory.jpg" />
     <Content Include="assets\images\gasket2.jpg" />
     <Content Include="assets\images\Halliburton trans.png" />
     <Content Include="assets\images\Halliburton2.jpg" />
