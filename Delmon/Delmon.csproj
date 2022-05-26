@@ -71,6 +71,7 @@
     <Content Include="assets\css\style-starter.css" />
     <Content Include="assets\fonts\fontawesome-webfont.svg" />
     <Content Include="assets\Icons\Chemical.png" />
+    <Content Include="assets\Icons\Coating.png" />
     <Content Include="assets\Icons\energy.png" />
     <Content Include="assets\Icons\Gas.png" />
     <Content Include="assets\Icons\gasket.png" />
@@ -82,6 +83,7 @@
     <Content Include="assets\Icons\Safety.png" />
     <Content Include="assets\Icons\sap.png" />
     <Content Include="assets\Icons\solar.png" />
+    <Content Include="assets\Icons\Stone.png" />
     <Content Include="assets\Icons\transportaion.png" />
     <Content Include="assets\Icons\travel.png" />
     <Content Include="assets\images\1.jpg" />
@@ -176,11 +178,18 @@
     <Content Include="Prevost\images\bottom.png" />
     <Content Include="Prevost\images\box_img.png" />
     <Content Include="Prevost\images\business_img.jpg" />
+    <Content Include="Prevost\images\box_img1.png" />
+    <Content Include="Prevost\images\business_img1.jpg" />
     <Content Include="Prevost\images\loading.gif" />
     <Content Include="Prevost\images\logo.png" />
     <Content Include="Prevost\images\menu_icon.png" />
     <Content Include="Prevost\images\midil.png" />
     <Content Include="Prevost\images\plan1.png" />
+    <Content Include="Prevost\images\prevost1.png" />
+    <Content Include="Prevost\images\prevost2.png" />
+    <Content Include="Prevost\images\prevost3.png" />
+    <Content Include="Prevost\images\prevost4.png" />
+    <Content Include="Prevost\images\prevost5.png" />
     <Content Include="Prevost\images\projects_img.png" />
     <Content Include="Prevost\images\test.png" />
     <Content Include="Prevost\index.html" />

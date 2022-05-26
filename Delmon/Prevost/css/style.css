@@ -778,10 +778,10 @@ ul.social_icon li a:hover {
 }
 
 .copyright {
-     padding: 20px 0px;
-     background: #0891f8;
-     margin-top: 50px;
-     position: relative;
+    padding: 20px 0px;
+    background: #35348d;
+    margin-top: 50px;
+    position: relative;
 }
 
 .copyright::after {

@@ -71,7 +71,7 @@
         margin: 0;
     }
     .Testimonial {
-        background: #0891f8;
+        background: #35348d;
     }
     .Testimonial_box {
         padding: 20px;
@@ -124,7 +124,7 @@
 
 @media (max-width: 575px) {
     .head_top {
-        background: #0891f8;
+        background: #35348d;
     }
     .header {
         padding: 12px 0px 0px 0px;
@@ -159,7 +159,7 @@
         background: transparent;
     }
     .Testimonial {
-        background: #0891f8;
+        background: #35348d;
     }
     .Testimonial_box {
         padding: 20px;

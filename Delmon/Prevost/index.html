@@ -2,278 +2,412 @@
 
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <!-- basic -->
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge">
-      <!-- mobile metas -->
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
-      <!-- site metas -->
-      <title>Delmon - Prevost</title>
-      <meta name="keywords" content="">
-      <meta name="description" content="">
-      <meta name="author" content="">
-      <!-- bootstrap css -->
-      <link rel="stylesheet" href="css/bootstrap.min.css">
-      <!-- style css -->
-      <link rel="stylesheet" href="css/style.css">
-      <!-- Responsive-->
-      <link rel="stylesheet" href="css/responsive.css">
-      <!-- fevicon -->
-      <link rel="icon" href="../assets/images/logo.jpg" type="image/gif" />
-      <!-- Scrollbar Custom CSS -->
-      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
-      <!-- Tweaks for older IEs-->
-      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
-      <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
-   </head>
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Delmon - Prevost</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Responsive-->
+    <!--<link rel="stylesheet" href="css/responsive.css">-->
+    <!-- fevicon -->
+    <link rel="icon" href="../assets/images/logo.jpg" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+</head>
    <!-- body -->
-   <body class="main-layout">
-      <!-- loader  -->
-      <div class="loader_bg">
-         <div class="loader"><img src="images/loading.gif" alt="#" /></div>
-      </div>
-      <!-- end loader -->
-      <!-- header -->
-      <header>
-         <!-- header inner -->
-         <div  class="head_top">
+<body class="main-layout">
+    <!-- loader  -->
+    <div class="loader_bg">
+        <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+    </div>
+    <!-- end loader -->
+    <!-- header -->
+    <header>
+        <!-- header inner -->
+        <div class="head_top">
             <div class="header">
-               <div class="container-fluid">
-                  <div class="row">
-                     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
-                        <div class="full">
-                           <div class="center-desk">
-                              <div class="logo">
-                                 <a href="index.html"><img src="images/logo.png" alt="#" /></a>
-                              </div>
-                           </div>
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                            <div class="full">
+                                <div class="center-desk">
+                                    <div class="logo">
+                                        <a href="index.html"><img src="images/logo.png" alt="#" /></a>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                     </div>
-                     <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
-                        <nav class="navigation navbar navbar-expand-md navbar-dark ">
-                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
-                           <span class="navbar-toggler-icon"></span>
-                           </button>
-                           <div class="collapse navbar-collapse" id="navbarsExample04">
-                              <ul class="navbar-nav mr-auto">
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="#"> Home  </a>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About</a>
-                                 </li>
-                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Contact</a>
-                                 </li>
-                              </ul>
-                           </div>
-                        </nav>
-                     </div>
-                  </div>
-               </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                            <nav class="navigation navbar navbar-expand-md navbar-dark ">
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+                                <div class="collapse navbar-collapse" id="navbarsExample04">
+                                    <ul class="navbar-nav mr-auto">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#"> Home  </a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#">About</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="#">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
             </div>
             <!-- end header inner -->
             <!-- end header -->
             <!-- banner -->
             <section class="banner_main">
-               <div class="container-fluid">
-                  <div class="row d_flex">
-                     <div class="col-md-6">
-                        <div class="text-bg">
-                            <h1>Delmon Group of Companies, the official distributor of PREVOST Company</h1>
-                           <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,</p>
-                           <a href="#">Read More</a>
+                <div class="container-fluid">
+                    <div class="row d_flex">
+                        <div class="col-md-6">
+                            <div class="text-bg">
+                                <h1>Delmon Group of Companies, the official distributor of PREVOST Company</h1>
+                                <p>
+                                    We are Delmon Group of Companies KSA,<br>the official distributor of PREVOST Company in <br /> the Kingdom of Saudi Arabia and in G.C.C Area
+                                </p>
+                                <!--<a href="#">Read More</a>-->
+                            </div>
                         </div>
-                     </div>
-                     <div class="col-md-6">
-                        <div class="text-img">
-                           <figure><img src="images/box_img.png" alt="#"/></figure>
+                        <div class="col-md-6">
+                            <div class="text-img">
+                                <figure><img src="images/box_img.png" alt="#" /></figure>
+                            </div>
                         </div>
-                     </div>
-                  </div>
-               </div>
+                    </div>
+                </div>
             </section>
-         </div>
-      </header>
-      <!-- end banner -->
-      <!-- business -->
-      <div class="business">
-         <div class="container">
+        </div>
+    </header>
+    <!-- end banner -->
+    <!-- business -->
+    <div class="business">
+        <div class="container">
             <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <span>Increase your client for</span>
-                     <h2>Better position of Business</h2>
-                     <p>It is a long established fact that a reader will be distracted by the readable content of a page </p>
-                  </div>
-               </div>
+                <div class="col-md-12">
+                    <div class="titlepage">
+                        <span style="color: #35348d "> Increase your client for</span>
+                        <h2>Better position of Business</h2>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page </p>
+                    </div>
+                </div>
             </div>
             <div class="row">
-               <div class="col-md-10 offset-md-1">
-                  <div class="row">
-                     <div class="col-md-12">
-                        <div class="business_box ">
-                           <figure><img src="images/business_img.jpg" alt="#"/></figure>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                           <a class="read_more" href="#">Read more</a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- end business -->
-      <!-- Projects -->
-      <div class="projects">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <span>Previous Projects</span>
-                     <h2>Better position of Business</h2>
-                     <p>It is a long established fact that a reader will be distracted by the readable content of a page </p>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-md-10 offset-md-1">
-                  <div class="row">
-                     <div class="col-md-6 offset-md-3">
-                        <div class="projects_box ">
-                           <figure><img src="images/projects_img.png" alt="#"/></figure>
-                        </div>
-                     </div>
-                     <div class="col-md-12">
-                        <div class="projects_box ">
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believableThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                           <a class="read_more" href="#">Read more</a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-      <!-- end projects -->
-      <!-- Testimonial -->
-      <div class="section">
-         <div class="container">
-            <div id="" class="Testimonial">
-               <div class="row">
-                  <div class="col-md-12">
-                     <div class="titlepage">
-                        <h2>Testimonial</h2>
-                     </div>
-                  </div>
-               </div>
-               <div class="row">
-                  <div class="col-md-3">
-                     <div class="Testimonial_box">
-                        <i><img src="images/plan1.png" alt="#"/></i>
-                     </div>
-                  </div>
-                  <div class="col-md-9">
-                     <div class="Testimonial_box">
-                        <h4>Donals</h4>
-                        <p>Tof Lorem Ipsum, you need to be There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a pass <br>
-                           age of Lorem Ipsum, you need to be 
-                        </p>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-     
-      <!-- end Testimonial -->
-      <!-- contact -->
-      <div id="contact" class="contact">
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12">
-                  <div class="titlepage">
-                     <h2>Contact us</h2>
-                     <span>There are many variations of passages of Lorem Ipsum available, but the </span>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <div class="container">
-            <div class="row">
-               <div class="col-md-12 ">
-                  <form class="main_form ">
-                     <div class="row">
-                        <div class="col-md-12 ">
-                           <input class="form_contril" placeholder="Name " type="text" name="Name ">
-                        </div>
+                <div class="col-md-10 offset-md-1">
+                    <div class="row">
                         <div class="col-md-12">
-                           <input class="form_contril" placeholder="Phone Number" type="text" name=" Phone Number">
+                            <div class="business_box ">
+                                <figure><img src="images/business_img.jpg" alt="#" /></figure>
+                                <p>
+                                    Prevost is designer, manufacturer of products as follows: For compressed air networks and fluid distribution, regardless of your market,
+                                    Such as air couplings, cooling system couplings, blow guns and a 100% aluminum piping system.
+                                </p>
+                                <!--<a class="read_more" href="#">Read more</a>-->
+                            </div>
                         </div>
-                        <div class="col-md-12">
-                           <input class="form_contril" placeholder="Email" type="text" name="Email">
-                        </div>
-                        <div class="col-md-12">
-                           <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                        </div>
-                        <div class="col-sm-12">
-                           <button class="send_btn">Send</button>
-                        </div>
-                     </div>
-                  </form>
-               </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
-      <!-- end contact -->
-      <!--  footer -->
-      <footer>
-         <div class="footer">
-            <div class="container">
-               <div class="row">
-                  <div class="col-md-12 ">
-                     <div class="cont">
-                        <h3> <strong class="multi"> Free Multipurpose Responsive</strong><br>
-                           Landing Page 2019
+        </div>
+    </div>
+    <!-- end business -->
+    <!-- Projects -->
+    <div class="projects">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="titlepage">
+                        <span style="color: #35348d ">
+                            PERFORMANCE AND INNOVATION
+                            AT THE CENTER OF YOUR NETWORKS
+                        </span>
+                        <h3>
+                            Every day, our team is committed to provide industry leading:
                         </h3>
-                     </div>
-                  </div>
-                  <div class="col-md-12">
-                     <ul class="social_icon">
-                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></i></a></li>
-                     </ul>
-                  </div>
-               </div>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-10 offset-md-1">
+                    <div class="row">
+                        <div class="col-md-6 offset-md-3">
+                            <div class="projects_box ">
+                                <figure><img src="images/projects_img.png" alt="#" /></figure>
+
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="projects_box ">
+                                <p style=" font-size: 24px ;text-align:center"> INNOVATIVE SOLUTIONS  </p>
+                                <ol>
+                                    <li style="text-align:justify"> • Prevost develops patented, safe, efficient products, which comply with all applicable industry standards.</li>
+                                    <li style="text-align:justify"> • Our products guarantee best in class performance - choosing Prevost means investing in the future.</li>
+                                    <li style="text-align:justify"> • We provide solutions that apply to all industries for engineers, architectural agencies, specialized dealers and installers</li>
+                                    <li style="text-align:justify"> • The PPS range is made entirely of 100% aluminum.  </li>
+                                </ol>
+
+                                <p style=" font-size:24px ;text-align:center">
+                                    QUALITY AND SAFE PRODUCTS  :Prevost is ISO 9001 certified and PPS products:
+                                </p>
+                                <ol>
+                                    <li style="text-align:justify"> • Meet the requirements of the Certification of Compliance with the Pressure Equipment Directive (PED).</li>
+                                    <li style="text-align:justify"> • Meet the fire classification (standard EN 13501-1) to minimize the spread of fire.</li>
+                                    <li style="text-align:justify"> • Are ATEX certified and can be used in ATEX zones classified 1.2.21 and 22.</li>
+                                    <li style="text-align:justify"> • Meet the international ISO 8573 standard used for Compressed Air quality (Classification 0.0.0). </li>
+                                </ol>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end projects -->
+    <!-- start top products -->
+
+    <style>
+
+        /* Center website */
+        .main {
+            max-width: 1000px;
+            margin: auto;
+        }
+
+        h1 {
+            font-size: 50px;
+            word-break: break-all;
+        }
+
+        .row {
+            margin: 8px -16px;
+        }
+
+            /* Add padding BETWEEN each column */
+            .row,
+            .row > .column {
+                padding: 8px;
+            }
+
+        /* Create four equal columns that floats next to each other */
+        .column {
+            float: left;
+            width: 25%;
+        }
+
+        /* Clear floats after rows */
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+
+        /* Content */
+        .content {
+            background-color: white;
+            padding: 10px;
+        }
+
+        /* Responsive layout - makes a two column-layout instead of four columns */
+        @media screen and (max-width: 900px) {
+            .column {
+                width: 50%;
+            }
+        }
+
+        /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+        @media screen and (max-width: 600px) {
+            .column {
+                width: 100%;
+            }
+        }
+    </style>
+
+    <!-- MAIN (Center website) -->
+    <div class="main">
+
+        <h1 style="text-align:center;color:#35348d;font-size:36px">OUR CORE PRODUCTS</h1>
+        <hr>
+        <!-- Portfolio Gallery Grid -->
+        <div class="row">
+            <div class="column">
+                <div class="content">
+                    <img src="images/prevost1.png" alt="#" style="width:100%" height:100%>
+                    <h3>  PREVOST PIPING SYSTEM 100%   ALUMINUM AIR NETWORKS </h3>
+                    <!--<p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>-->
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="images/prevost2.png" alt="#" style="width:100%" height:100%>
+                    <h3> SAFETY QUICK COUPLINGS</h3>
+                    <!--<p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>-->
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="images/prevost3.png" alt="#" style="width:100%" height:100%>
+                    <h3>PREVOST FITTINGS  100% ALUMINUM </h3>
+                    <!--<p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>-->
+                </div>
+            </div>
+            <div class="column">
+                <div class="content">
+                    <img src="images/prevost4.png" alt="#" style="width:100%" height:100%>
+                    <h3>BLOWGUNS </h3>
+                    <!--<p>Lorem ipsum dolor sit amet, tempor prodesset eos no. Temporibus necessitatibus sea ei, at tantas oporteat nam. Lorem ipsum dolor sit amet, tempor prodesset eos no.</p>-->
+                </div>
+            </div>
+            <!-- END GRID -->
+        </div>
+
+
+        <!-- END MAIN -->
+    </div>
+   
+
+    <!-- end top products  -->
+    <!-- Testimonial -->
+    <div class="section">
+        <div class="container">
+            <div id="" class="Testimonial">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="titlepage">
+                            <h2>Who we are</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="Testimonial_box">
+                            <i><img src="images/plan1.png" alt="#" /></i>
+                        </div>
+                    </div>
+                    <div class="col-md-9">
+                        <div class="Testimonial_box">
+                            <!--<h4>Donals</h4>-->
+                            <p>
+                                Delmon Group of Companies is the official distributor of Prevost for the Kingdom and the Arabian Gulf, where Naif Al-Ghunaim heads the Prevost branch, Prevost has been designing and manufacturing innovative, patented air equipment since 1978. Our extensive range of compressed air and fluid distribution products are tailored for numerous industries and applications. Our equipment is professional grade quality and used in manufacturing industries, vehicle bodyshops and design and engineering firms in Europe, the United States and over 80 countries. We have strategically positioned our sales and logistics teams globally to support our initiatives.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end Testimonial -->
+    <!-- contact -->
+    <div id="contact" class="contact">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="titlepage">
+                    <h2>Contact us</h2>
+                    <div class="column2 pt-6 mt-6">
+                        <div class="contact-para contact-info-align">
+                            <h3 class="info mb-3"> Location: Riyadh -Prince Turki Ibn Abdulaziz Al Awwal Rd - Al Mohammadiyyah - Delmon HSP Office</h3>
+
+                        </div>
+                        <div class="contact-info-align">
+                            <h3 class="info mb-3">Email :- <a href="mailto:Abubaker@delmon.com.sa">Abubaker@delmon.com.sa</a></h3>
+
+                        </div>
+                        <div class="contact-info-align">
+                       
+                            <h3 class="info mb-3" style="font:bolder">Phone:-  <a href="tel:+404 11-22-89"> Tel:0561422994</a><a href="tel:+404 11-22-89"> Tel: 011-8102080</a> <a href="https://wa.me/966590032294"> WhatsApp:+966590032294 </a></h3>
+
+
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="map">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3623.94046491565!2d46.6417255!3d24.728924099999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e2f1d63374f4bed%3A0x987fbcce0bdc4000!2sDelmon%20HSP%20Office!5e0!3m2!1sen!2ssa!4v1653571467381!5m2!1sen!2ssa" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>         </div>
+
+
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+    <!-- end contact -->
+    <!--  footer -->
+    <footer>
+        <div class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 ">
+                        <div class="cont">
+                            <h3>
+                                <strong class="multi" style="color: #35348d "> Your fluid distribution partner</strong><br>
+                                Our expertise takes your business to the next level
+
+                            </h3>
+                        </div>
+                    </div>
+                    <div class="col-md-12">
+                        <ul class="social_icon">
+                            <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></i></a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
             <div class="copyright">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-md-12">
-                        <p>Copyright 2019 All Right Reserved By <a href="https://html.design/"> Free  html Templates</a></p>
-                     </div>
-                  </div>
-               </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p>© 2022 Delmon. All rights reserved by <a href="/"> Delmon.co.ltds</a></p>
+                        </div>
+                    </div>
+                </div>
             </div>
-         </div>
-      </footer>
-      <!-- end footer -->
-      <!-- Javascript files-->
-      <script src="js/jquery.min.js"></script>
-      <script src="js/popper.min.js"></script>
-      <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
-      <script src="js/plugin.js"></script>
-      <!-- sidebar -->
-      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="js/custom.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
-   </body>
+        </div>
+    </footer>
+    <!-- end footer -->
+    <!-- Javascript files-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+</body>
 </html>
 
