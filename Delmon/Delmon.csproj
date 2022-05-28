@@ -81,6 +81,7 @@
     <Content Include="assets\Icons\Restaurant.png" />
     <Content Include="assets\Icons\road safety.png" />
     <Content Include="assets\Icons\Safety.png" />
+    <Content Include="assets\Icons\salt.png" />
     <Content Include="assets\Icons\sap.png" />
     <Content Include="assets\Icons\solar.png" />
     <Content Include="assets\Icons\Stone.png" />
