@@ -790,7 +790,7 @@ ul.social_icon li a:hover {
      content: "";
      position: absolute;
      bottom: 61px;
-     background: url(../images/bottom.png);
+   /*  background: url(../images/bottom.png);*/
      width: 290px;
      height: 292px;
      right: 0;

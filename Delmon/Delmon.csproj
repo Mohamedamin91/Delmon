@@ -187,6 +187,7 @@
     <Content Include="Prevost\images\logo.png" />
     <Content Include="Prevost\images\menu_icon.png" />
     <Content Include="Prevost\images\midil.png" />
+    <Content Include="Prevost\images\Naif.png" />
     <Content Include="Prevost\images\plan1.png" />
     <Content Include="Prevost\images\prevost1.png" />
     <Content Include="Prevost\images\prevost2.png" />
