@@ -312,16 +312,18 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .head_top {
-     background: url(../images/banner.png);
-     background-size: 100% 100%;
+/*     background: url('../images/banner.png');
+*/    background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
 }
 
 .header {
-     width: 100%;
-     background: transparent;
-     padding: 30px 30px;
+    width: 100%;
+    height:70px;
+    background: #35348d;
+    padding: 1px 1px;
+ 
 }
 
 .logo a {
@@ -477,8 +479,8 @@ button {
      width: 320px;
      height: 542px;
      right: 0;
-     background: url(../images/midil.png);
-     top: -210px;
+/*     background: url(../images/midil.png);
+*/     top: -210px;
 }
 
 .projects .titlepage span {
@@ -531,7 +533,7 @@ button {
 /** Testimonial section **/
 
 .Testimonial {
-     background: url(../images/test.png);
+    /* background: url(../images/test.png);*/
      background-repeat: no-repeat;
      margin-top: 90px;
      padding: 90px 0px;

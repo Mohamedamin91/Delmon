@@ -53,7 +53,7 @@
 
 @media (min-width: 576px) and (max-width: 767px) {
     .head_top {
-        background: #0891f8;
+        background: transparent;
     }
     .mean-container .mean-bar {
         margin-top: 0px;
@@ -124,7 +124,7 @@
 
 @media (max-width: 575px) {
     .head_top {
-        background: #35348d;
+        background: transparent;
     }
     .header {
         padding: 12px 0px 0px 0px;
