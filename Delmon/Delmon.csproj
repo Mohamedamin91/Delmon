@@ -236,6 +236,27 @@
     <Content Include="Prevost\js\revolution\js\jquery.themepunch.tools.min.js" />
     <Content Include="Prevost\js\slider-setting.js" />
     <Content Include="services.html" />
+    <Content Include="Travel\css\bootstrap.css" />
+    <Content Include="Travel\css\font-awesome.min.css" />
+    <Content Include="Travel\css\style.css" />
+    <Content Include="Travel\fonts\fontawesome-webfont.svg" />
+    <Content Include="Travel\images\bg.jpg" />
+    <Content Include="Travel\images\blog.jpg" />
+    <Content Include="Travel\images\about.jpg" />
+    <Content Include="Travel\images\blog3.jpg" />
+    <Content Include="Travel\images\blog4.jpg" />
+    <Content Include="Travel\images\blog8.jpg" />
+    <Content Include="Travel\images\blog1.jpg" />
+    <Content Include="Travel\images\blog2.jpg" />
+    <Content Include="Travel\images\blog5.jpg" />
+    <Content Include="Travel\images\blog6.jpg" />
+    <Content Include="Travel\images\blog7.jpg" />
+    <Content Include="Travel\images\team1.jpg" />
+    <Content Include="Travel\images\team2.jpg" />
+    <Content Include="Travel\images\team3.jpg" />
+    <Content Include="Travel\images\team4.jpg" />
+    <Content Include="Travel\index.html" />
+    <Content Include="Travel\w3layouts-License.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -299,6 +320,11 @@
     <Content Include="Prevost\images\.DS_Store" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
+    <Content Include="Travel\fonts\fontawesome-webfont.eot" />
+    <Content Include="Travel\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Travel\fonts\fontawesome-webfont.woff" />
+    <Content Include="Travel\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Travel\fonts\FontAwesome.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
