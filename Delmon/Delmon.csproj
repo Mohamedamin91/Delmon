@@ -241,6 +241,7 @@
     <Content Include="SAP\css\style.css" />
     <Content Include="SAP\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="SAP\images\2.jpg" />
+    <Content Include="SAP\images\22.jpg" />
     <Content Include="SAP\images\b1.jpg" />
     <Content Include="SAP\images\b2.jpg" />
     <Content Include="SAP\images\b3.jpg" />

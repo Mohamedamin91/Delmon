@@ -958,8 +958,8 @@ span.dark a{
 	.about-agile h6, .blog h6, .gallery h6, .services h6, .contact h6 {
 		width: 53%;
 	}
-	.agile1, .agile2, .agile3 {
-		width: 33.3%;
+	.agile1, .agile2, .agile3{
+		width: 25%;
 		float: left;
 	}
 	.agile_count_grid {
