@@ -270,9 +270,11 @@
     <Content Include="SAP\images\icon.png" />
     <Content Include="SAP\images\img-sp.png" />
     <Content Include="SAP\images\img-sprite.png" />
+    <Content Include="SAP\images\imteyaz.png" />
     <Content Include="SAP\images\naidudir.png" />
     <Content Include="SAP\images\next.png" />
     <Content Include="SAP\images\prev.png" />
+    <Content Include="SAP\images\Rahim.png" />
     <Content Include="SAP\images\s1.jpg" />
     <Content Include="SAP\images\Sultan.png" />
     <Content Include="SAP\images\testimonialsbg.png" />
