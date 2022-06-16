@@ -75,7 +75,7 @@
     <Content Include="images\amintrans.png" />
     <Content Include="images\aramco2trans.png" />
     <Content Include="images\bg.jpg" />
-    <Content Include="images\bg2.jpg" />
+    <Content Include="images\bg2.png" />
     <Content Include="images\bg3.jpg" />
     <Content Include="images\close.png" />
     <Content Include="images\Contactus.jpg" />
@@ -84,7 +84,7 @@
     <Content Include="images\g1.jpg" />
     <Content Include="images\g2.jpg" />
     <Content Include="images\g3.jpg" />
-    <Content Include="images\g44.jpg" />
+    <Content Include="images\g4.png" />
     <Content Include="images\g5.jpg" />
     <Content Include="images\g6.jpg" />
     <Content Include="images\g7.jpg" />
@@ -111,7 +111,7 @@
     <Content Include="images\left1.png" />
     <Content Include="images\logo.jpg" />
     <Content Include="images\logotrans.png" />
-    <Content Include="images\g4.png" />
+    <Content Include="images\g44.png" />
     <Content Include="images\Newsletter.jpg" />
     <Content Include="images\next.png" />
     <Content Include="images\prev.png" />
@@ -135,7 +135,6 @@
     <Content Include="js\jquery.waypoints.min.js" />
     <Content Include="js\lightbox-plus-jquery.min.js" />
     <Content Include="js\responsiveslides.min.js" />
-    <Content Include="National Factory\about.html" />
     <Content Include="National Factory\assets\css\style-starter.css" />
     <Content Include="National Factory\assets\fonts\fontawesome-webfont.svg" />
     <Content Include="National Factory\assets\images\about.jpg" />
@@ -187,6 +186,7 @@
     <Content Include="National Factory\assets\images\mainslide3.jpg" />
     <Content Include="National Factory\assets\images\mintreartlogo.png" />
     <Content Include="National Factory\assets\images\mintreartlogo2.png" />
+    <Content Include="National Factory\assets\images\Newsletter.jpg" />
     <Content Include="National Factory\assets\images\prize.jpg" />
     <Content Include="National Factory\assets\images\PUMICE1_edited.jpg" />
     <Content Include="National Factory\assets\images\service1.png" />
@@ -199,14 +199,13 @@
     <Content Include="National Factory\assets\images\team3.jpg" />
     <Content Include="National Factory\assets\images\team4.jpg" />
     <Content Include="National Factory\assets\images\team5.jpg" />
+    <Content Include="National Factory\assets\images\World.jpg" />
     <Content Include="National Factory\assets\js\bootstrap.min.js" />
     <Content Include="National Factory\assets\js\jquery-3.4.1.slim.min.js" />
     <Content Include="National Factory\assets\js\jquery.countup.js" />
     <Content Include="National Factory\assets\js\jquery.waypoints.min.js" />
     <Content Include="National Factory\assets\js\owl.carousel.js" />
-    <Content Include="National Factory\contact.html" />
     <Content Include="National Factory\index.html" />
-    <Content Include="National Factory\services.html" />
     <Content Include="National Factory\starter-license-W3Layouts.txt" />
     <Content Include="Prevost\css\animate.min.css" />
     <Content Include="Prevost\css\bootstrap-grid.css" />

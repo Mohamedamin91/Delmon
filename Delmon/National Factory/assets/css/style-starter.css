@@ -11094,7 +11094,7 @@ button.owl-next {
 
 .w3l-index5 .new-block {
   background-size: cover;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(../images/building.jpg);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(../images/World.jpg);
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-attachment: fixed;
@@ -11254,7 +11254,7 @@ button.owl-next {
   display: none; }
 
 .w3l-subscribe .main-w3 {
-  background: url(../images/img1.jpg) no-repeat 0px 0px;
+  background: url(../images/Newsletter.jpg) no-repeat 0px 0px;
   background-size: cover;
   background-attachment: fixed;
   position: relative;
