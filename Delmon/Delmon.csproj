@@ -344,7 +344,6 @@
     <Content Include="SAP\js\lightbox-plus-jquery.min.js" />
     <Content Include="SAP\js\move-top.js" />
     <Content Include="SAP\js\waypoints.min.js" />
-    <Content Include="SAP\single.html" />
     <Content Include="SAP\w3layouts-License.txt" />
     <Content Include="Travel\css\bootstrap.css" />
     <Content Include="Travel\css\font-awesome.min.css" />
