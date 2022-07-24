@@ -98,6 +98,7 @@
     <Content Include="images\Icons\Chemical.png" />
     <Content Include="images\Icons\Coating.png" />
     <Content Include="images\Icons\energy.png" />
+    <Content Include="images\Icons\EPDM FF_Gaskets.jpg" />
     <Content Include="images\Icons\gas.png" />
     <Content Include="images\Icons\newGASKET.jpg" />
     <Content Include="images\Icons\salt.png" />
@@ -230,6 +231,7 @@
     <Content Include="prevost\assets\images\client-04.png" />
     <Content Include="prevost\assets\images\client-05.png" />
     <Content Include="prevost\assets\images\fun-facts-bg.jpg" />
+    <Content Include="prevost\assets\images\imageedit_3_3775344382.jpg" />
     <Content Include="prevost\assets\images\images\banner.png" />
     <Content Include="prevost\assets\images\images\banner1.png" />
     <Content Include="prevost\assets\images\images\banner222.png" />
@@ -268,7 +270,6 @@
     <Content Include="prevost\assets\images\single_service_01.jpg" />
     <Content Include="prevost\assets\images\slide_01.jpg" />
     <Content Include="prevost\assets\images\slide_02.jpg" />
-    <Content Include="prevost\assets\images\slide_03.jpg" />
     <Content Include="prevost\assets\images\team_01.jpg" />
     <Content Include="prevost\assets\images\team_02.jpg" />
     <Content Include="prevost\assets\images\team_03.jpg" />
