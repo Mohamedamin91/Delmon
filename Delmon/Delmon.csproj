@@ -451,6 +451,7 @@
     <Content Include="prevost\vendor\jquery\jquery.min.map" />
     <Content Include="prevost\vendor\jquery\jquery.slim.min.map" />
     <Content Include="prevost\assets\images\images\.DS_Store" />
+    <Content Include="Policies\IDTerms.pdf" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Properties\PublishProfiles\FTPProfile.pubxml" />
     <Content Include="travel\fonts\fontawesome-webfont.eot" />
